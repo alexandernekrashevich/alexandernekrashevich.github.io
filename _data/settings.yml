@@ -12,6 +12,8 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Expositions'
+      url: '/exposition/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
